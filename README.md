@@ -1,4 +1,8 @@
-## Robinhood, digital cash for a new era
+## Robinhood is people's electronic cash
+
+Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anonymous and privacy centric with opaque and more analysis resistant blockchain. It is people's electronic cash, not connected to government or officials.
+
+### The Nottinghamshire Blockchain Alliance
 
 The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator in the county of Brazópolis, Minas Gerais, Brazil.
 
@@ -7,8 +11,6 @@ The Nottinghamshire Blockchain Alliance was formed to bring together people who 
 The Nottinghamshire Blockchain Alliance community aims to help each other advance our ambitions in blockchain spaces.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anonymous and privacy centric with opaque and more analysis resistant blockchain. It is people's electronic cash, not connected to government or officials.
 
 ### The Nottinghamshire Blockchain Alliance
 
