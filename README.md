@@ -8,7 +8,9 @@ The Nottinghamshire Blockchain Alliance community aims to help each other advanc
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anonymous and privacy centric with opaque and more analysis resistant blockchain. It is people's electronic cash, not connected to government or officials.
+
+### The Nottinghamshire Blockchain Alliance
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
