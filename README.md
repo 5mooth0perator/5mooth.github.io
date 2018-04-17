@@ -10,6 +10,8 @@ We believe in non-violent, peaceful civil disobedience.
 
 ### The Nottinghamshire Blockchain Alliance
 
+We predict that cryptocurrencies and Blockchain technologies like it will become far more significant over the next few years than is expected by most of our similarly irrelevant pundits — and this will, no doubt, turn out to be just as much of an understatement as anything else that has been written on the subject.
+
 The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator in the county of Brazópolis, Minas Gerais, Brazil.
 
 The Nottinghamshire Blockchain Alliance was formed to bring together people who are interested in getting involved in blockchain solutions. 
