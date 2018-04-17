@@ -2,7 +2,7 @@
 
 Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anonymous and privacy centric with opaque and more analysis resistant blockchain. It is people's electronic cash, not connected to government or officials.
 
-### The corrupt fear us. The honest support us. The heroic join us. We are [#Robinhood](https://jekyllrb.com/).
+### The corrupt fear us. The honest support us. The heroic join us. We are [#Robinhood](https://jekyllrb.com/)
 
 We share the collective idea of people's electronic cash worldwide; we are the people. 
 
