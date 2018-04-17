@@ -1,6 +1,6 @@
-You can use the [editor on GitHub](https://github.com/5mooth0perator/5mooth.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Brought to you by
 
-## Welcome to GitHub Pages
+## The Nottinghamshire Blockchain Alliance
 
 You can use the [editor on GitHub](https://github.com/5mooth0perator/5mooth.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
