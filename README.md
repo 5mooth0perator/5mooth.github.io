@@ -4,7 +4,9 @@ Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anon
 
 ### The corrupt fear us. The honest support us. The heroic join us. We are [#Robinhood](https://jekyllrb.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We share the collective idea of people's electronic cash worldwide; we are the people. 
+
+We believe in non-violent, peaceful civil disobedience. 
 
 ### The Nottinghamshire Blockchain Alliance
 
