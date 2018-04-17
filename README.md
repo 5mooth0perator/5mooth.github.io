@@ -48,6 +48,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### lala
 
+<script src="https://cointelegraph.com/news-widget" data-ct-widget-limit="10" data-ct-widget-theme="light" data-ct-widget-priceindex="true" data-ct-widget-images="true" data-ct-widget-currency="USD"></script>
+
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="BRL" data-secondary="USD" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="BRL" data-statsticker="true"></div>
 
 ### Jekyll Themes
