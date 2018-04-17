@@ -2,6 +2,12 @@
 
 Presents you Robinhood, a cryptocurrency made in Brasil, CryptoNote protocol implementation.
 
+The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator.
+
+The Nottinghamshire Blockchain Alliance was formed to bring together people who are interested in getting involved in blockchain solutions. The Nottinghamshire Blockchain Alliance community aims to help each other advance our ambitions in blockchain spaces.
+
+The community consists of blockchain project founders, early team members, investors and mentors.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
