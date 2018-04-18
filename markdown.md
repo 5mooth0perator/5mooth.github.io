@@ -125,7 +125,7 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+Coat_of_arms_of_Nottinghamshire_County_Council_Small
 
 ### Definition lists can be used with HTML syntax.
 
