@@ -4,6 +4,71 @@ Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anon
 
 It is people's electronic cash, not connected to government or officials.
 
+### What is Robinhood
+
+Robinhood is a fully secure and anonymous cryptocurrency. Built from the ground up to ensure anonymity, transactions cannot be linked to a single sender.
+
+Cryptocurrency is about the decentralization of the financial sector, removing people’s dependence on third party institutions.
+
+Robinhood is the natural next step in this journey, giving us all the power to make truly anonymous financial transactions.
+
+### Robinhood features
+
+#### Untraceable payments
+
+CryptoNote provides users with a completely anonymous payment scheme. CryptoNote implements the ring signature technology which allows you to sign a message on behalf of a group. The signature only proves the message was created by someone from the group, but all the possible signers are indistinguishable from each other.
+
+####  Unlinkable transactions
+
+Even if outgoing transactions are untraceable, everyone may still be able to see the payments you have received and thus determine your income. However, by using a variation of the Diffie-Hellman exchange protocol, a receiver has multiple unique one-time addresses derived from his single public key. After funds are sent to these addresses they can only be redeemed by the receiver; and it would be impossible to cross-link these payments.
+
+####  Double-spending proof
+Nobody is able to spend the same money twice — even if all his signatures are anonymous. Every signature contains a key image — a kind of fingerprint of the secret key. It is based on a one-way cryptographic function; this implies that given only the key image it is impossible to restore the corresponding secret key. These key images are used to prevent double-spending.
+
+####  Blockchain analysis resistance
+Non-repeating one-time addresses and mixed keys in ring signatures make the whole blockchain resistant to analysis. Each future transaction will only increase the entropy and create additional obstacles for an analyst.
+FULL ARTICLE
+ Egalitarian
+proof of work
+The proof of work mechanism acts as a voting system. Thus, it is crucial that during the voting process all the participants have equal voting privileges. CryptoNote brings this equality with its egalitarian proof of work, utilizing built-in CPU instructions, which are very hard and too expensive to implement in special purpose devices, but perfectly suitable for ordinary PCs.
+FULL ARTICLE
+ Adaptive
+parameters
+A decentralized payment system must not depend on a single person's decisions, even if this person is a developer. CryptoNote has no hard-coded constants; magic numbers in the code are designed to be re-calculated based on the previous state of the network. Thus, they always change adaptively and independently, allowing the network to develop on its own.
+
+
+
+
+
+### Create unique cryptocurrencies with CryptoNote
+
+#### Anonymous payments
+
+CryptoNote uses ring signatures and one-time addresses for truly anonymous payments. Learn more.
+
+Unlinkable transactions
+
+CryptoNote's transactions can't be linked between the sender and the recipient.
+
+Learn more  
+Egalitarian proof of work
+
+CryptoNight hash function is designed for egalitarian GPU & CPU mining.
+
+Learn more  
+Adaptive limits
+
+CryptoNote currency intelligently adjusts its parameters based on the historical data.
+
+Learn more
+
+
+### Papers
+
+Learn more about our tech
+
+
+
 ### The corrupt fear us. The honest support us. The heroic join us. We are [#Robinhood](https://jekyllrb.com/)
 
 We share the collective idea of people's electronic cash worldwide; we are the people.
