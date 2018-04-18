@@ -1,14 +1,14 @@
 ## Robinhood is people's electronic cash
 
-Robinhood is `cryptocurrency` of Brazilian origin, just like Bitcoin but `more anonymous` and `privacy centric` with opaque and more analysis resistant blockchain. 
+Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anonymous and privacy centric with opaque and more analysis resistant blockchain.
 
 It is people's electronic cash, not connected to government or officials.
 
 ### The corrupt fear us. The honest support us. The heroic join us. We are [#Robinhood](https://jekyllrb.com/)
 
-We share the collective idea of people's electronic cash worldwide; we are the people. 
+We share the collective idea of people's electronic cash worldwide; we are the people.
 
-We believe in non-violent, peaceful civil disobedience. 
+We believe in non-violent, peaceful civil disobedience.
 
 ### The Nottinghamshire Blockchain Alliance
 
@@ -16,7 +16,7 @@ We predict that cryptocurrencies and Blockchain technologies like it will become
 
 The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator in the county of Brazópolis, Minas Gerais, Brazil.
 
-The Nottinghamshire Blockchain Alliance was formed to bring together people who are interested in getting involved in blockchain solutions. 
+The Nottinghamshire Blockchain Alliance was formed to bring together people who are interested in getting involved in blockchain solutions.
 
 The Nottinghamshire Blockchain Alliance community aims to help each other advance our ambitions in blockchain spaces.
 
@@ -46,11 +46,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### lala
+### Market News
 
 <script src="https://cointelegraph.com/news-widget" data-ct-widget-limit="10" data-ct-widget-theme="light" data-ct-widget-priceindex="true" data-ct-widget-images="true" data-ct-widget-currency="USD"></script>
 
-<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="1" data-base="BRL" data-secondary="USD" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="BRL" data-statsticker="true"></div>
 
 ### Jekyll Themes
 
