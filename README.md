@@ -4,11 +4,9 @@ Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anon
 
 It is people's electronic cash, not connected to government or officials.
 
-# [#Download](https://jekyllrb.com/) / [#Learn](https://jekyllrb.com/) / [#Participate](https://jekyllrb.com/)
-
 ### The Nottinghamshire Blockchain Alliance
 
-> The corrupt fear us. The honest support us. The heroic join us. We are [#Robinhood](https://jekyllrb.com/)
+> The corrupt fear us. The honest support us. [The heroic join us](https://jekyllrb.com/). We are [#Robinhood](https://jekyllrb.com/)
 
 The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator in the county of Brazópolis, Minas Gerais, Brazil and was formed to bring together people who are interested in getting involved in blockchain solutions.
 
