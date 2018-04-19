@@ -1,3 +1,13 @@
+### Shaping the future of the global economy with Robinhood
+
+The current power distribution on our planet is the legacy of the world where the economy is controlled by the few. The status quo was shaped throughout centuries, making human beings engage in rat races, detrimental rivalry, and bloodshed. In spite of humanity's hope to overcome local crises through education and internationalization, we still fail to have full control over our lives.  
+
+However, state-of-the-art advancements in technology, mathematics, and cryptography may become the key to subvert this paradigm. The advent of cryptocurrencies is the first sign that the new world is coming. It is marked with a hope that the economy will interlace with the technology, that communities will set new transparent principles, and impartial cryptographic algorithms will control its implementation.  
+
+It is in our philosophy to encourage enlightenment through breakthrough innovations. Emancipation begins with laymen getting access to financial resources that will give the oppressed the hope for quality education, drinking water, and a better life. Robinhood is not about creating yet another digital currency. It is the mindset and concepts that represent the first small step to regain the power over ourselves in order to live peacefully and prosper.
+
+CryptoNote is the technology that allows the creation of completely anonymous egalitarian cryptocurrency. A number of CryptoNote community members have been focused on research and development for more than a decade. We aim to promote the derived principles to influence the contemporary economic paradigm.  
+
 ## Specifications
 
 | CNS                       | TITLE                               |
