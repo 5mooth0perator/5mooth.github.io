@@ -4,16 +4,17 @@ Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anon
 
 It is people's electronic cash, not connected to government or officials.
 
-* * *
-
 # [#Download](https://jekyllrb.com/) / [#Learn](https://jekyllrb.com/) / [#Participate](https://jekyllrb.com/)
 
-### An open-source technology and concepts for the cryptocurrencies of the future
+### The Nottinghamshire Blockchain Alliance
 
-In a mass surveillance world we develop and promote new approaches to further decentralize
-and emancipate cryptocurrencies. We use advanced mathematical analysis and innovative ideas to empower end-users with true privacy, both financial and personal.
+> The corrupt fear us. The honest support us. The heroic join us. We are [#Robinhood](https://jekyllrb.com/)
 
-We share our ideas to shift the current global paradigm through cryptography and egalitarianism.
+The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator in the county of Brazópolis, Minas Gerais, Brazil and was formed to bring together people who are interested in getting involved in blockchain solutions.
+
+We share the collective idea of people's electronic cash worldwide; we are the people. We believe in non-violent, peaceful civil disobedience.
+
+We predict that cryptocurrencies and Blockchain technologies like it will become far more significant over the next few years than is expected by most of our similarly irrelevant pundits — and this will, no doubt, turn out to be just as much of an understatement as anything else that has been written on the subject.
 
 ### What is Robinhood
 
@@ -41,39 +42,15 @@ Robinhood hash function is designed for egalitarian GPU & CPU mining.
 
 Robinhood currency intelligently adjusts its parameters based on the historical data.
 
-### Specifications
 
-| CNS                       | TITLE                               |
-|:--------------------------|:------------------------------------|
-| Ticker                    | RHD   |
-| Symbol                    | R               |
-| Proof-of-work algorithm   | CryptoNight               |
-| Block time                | 240 seconds             |
-| Difficulty                | retarget each block  |
-| Block reward              | slight decrease every block according to formula: `BaseReward = (MSupply - A)/218` where `MSupply` is the number of atomic units and `A` is amount of already generated coins          |
-| Divisible up to           | 1012 atomic units (up to 12 decimal places)            |
-| Emission                  | infinite, initial supply – 10,000,000,000,000,000,000 atomic units, or 10 million rhd.            |
-| Tail emission             | ~1.2% of initial supply per year, minimal block reward: 1 rhd.            |
 
 ### White paper
 
 White paper covering all the aspects of Robinhood powered by CryptoNote technology
 
-### The corrupt fear us. The honest support us. The heroic join us. We are [#Robinhood](https://jekyllrb.com/)
 
-We share the collective idea of people's electronic cash worldwide; we are the people.
 
-We believe in non-violent, peaceful civil disobedience.
 
-### The Nottinghamshire Blockchain Alliance
-
-We predict that cryptocurrencies and Blockchain technologies like it will become far more significant over the next few years than is expected by most of our similarly irrelevant pundits — and this will, no doubt, turn out to be just as much of an understatement as anything else that has been written on the subject.
-
-The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator in the county of Brazópolis, Minas Gerais, Brazil.
-
-The Nottinghamshire Blockchain Alliance was formed to bring together people who are interested in getting involved in blockchain solutions.
-
-The Nottinghamshire Blockchain Alliance community aims to help each other advance our ambitions in blockchain spaces.
 
 ### Support or Contact
 
