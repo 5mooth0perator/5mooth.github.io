@@ -8,9 +8,7 @@ It is people's electronic cash, not connected to government or officials.
 
 # [#Download](https://jekyllrb.com/) / [#Learn](https://jekyllrb.com/) / [#Participate](https://jekyllrb.com/)
 
-### Manifesto
-
-#### An open-source technology and concepts for the cryptocurrencies of the future
+### An open-source technology and concepts for the cryptocurrencies of the future
 
 In a mass surveillance world we develop and promote new approaches to further decentralize
 and emancipate cryptocurrencies. We use advanced mathematical analysis and innovative ideas to empower end-users with true privacy, both financial and personal.
@@ -45,14 +43,17 @@ Robinhood currency intelligently adjusts its parameters based on the historical 
 
 ### Specifications
 
-| CNS              | TITLE                               |
-|:-----------------|:------------------------------------|
-| Proof-of-work           | CryptoNight   |
-| Block time           | 30 seconds               |
-| Total supply           | 18.4m coins               |
-| CNS004           | CryptoNote Transactions             |
-| CNS005           | CryptoNote Transaction Extra Field  |
-| CNS006           | CryptoNote One-Time Keys            |
+| CNS                       | TITLE                               |
+|:--------------------------|:------------------------------------|
+| Ticker                    | RHD   |
+| Symbol                    | R               |
+| Proof-of-work algorithm   | CryptoNight               |
+| Block time                | 240 seconds             |
+| Difficulty                | retarget each block  |
+| Block reward              | slight decrease every block according to formula: `BaseReward = (MSupply - A)/218` where `MSupply` is the number of atomic units and `A` is amount of already generated coins          |
+| Divisible up to           | 1012 atomic units (up to 12 decimal places)            |
+| Emission                  | infinite, initial supply – 10,000,000,000,000,000,000 atomic units, or 10 million rhd.            |
+| Tail emission             | ~1.2% of initial supply per year, minimal block reward: 1 rhd.            |
 
 ### White paper
 
