@@ -4,14 +4,18 @@ Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anon
 
 It is people's electronic cash, not connected to government or officials.
 
-![Branching](http://getrobinhood.tk/images/Coat_of_arms_of_Nottinghamshire_County_Council_Small.png)
-
-
 * * *
 
 # [#Download](https://jekyllrb.com/) / [#Learn](https://jekyllrb.com/) / [#Participate](https://jekyllrb.com/)
 
-* * *
+### Manifesto
+
+#### An open-source technology and concepts for the cryptocurrencies of the future
+
+In a mass surveillance world we develop and promote new approaches to further decentralize
+and emancipate cryptocurrencies. We use advanced mathematical analysis and innovative ideas to empower end-users with true privacy, both financial and personal.
+
+We share our ideas to shift the current global paradigm through cryptography and egalitarianism.
 
 ### What is Robinhood
 
@@ -23,62 +27,36 @@ Robinhood is the natural next step in this journey, giving us all the power to m
 
 ### Robinhood features
 
-#### Untraceable & Anonymous payments
+#### Anonymous payments
 
-CryptoNote uses ring signatures and one-time addresses for truly anonymous payments.
-
-CryptoNote provides users with a completely anonymous payment scheme. CryptoNote implements the ring signature technology which allows you to sign a message on behalf of a group. The signature only proves the message was created by someone from the group, but all the possible signers are indistinguishable from each other.
+Robinhood uses ring signatures and one-time addresses for truly anonymous payments.
 
 #### Unlinkable transactions
 
-CryptoNote's transactions can't be linked between the sender and the recipient.
-
-Even if outgoing transactions are untraceable, everyone may still be able to see the payments you have received and thus determine your income. However, by using a variation of the Diffie-Hellman exchange protocol, a receiver has multiple unique one-time addresses derived from his single public key. After funds are sent to these addresses they can only be redeemed by the receiver; and it would be impossible to cross-link these payments.
-
-#### Double-spending proof
-
-Nobody is able to spend the same money twice — even if all his signatures are anonymous. Every signature contains a key image — a kind of fingerprint of the secret key. It is based on a one-way cryptographic function; this implies that given only the key image it is impossible to restore the corresponding secret key. These key images are used to prevent double-spending.
-
-#### Blockchain analysis resistance
-
-Non-repeating one-time addresses and mixed keys in ring signatures make the whole blockchain resistant to analysis. Each future transaction will only increase the entropy and create additional obstacles for an analyst.
+Robinhood's transactions can't be linked between the sender and the recipient.
 
 #### Egalitarian proof of work
 
-CryptoNight hash function is designed for egalitarian GPU & CPU mining.
+Robinhood hash function is designed for egalitarian GPU & CPU mining.
 
-The proof of work mechanism acts as a voting system. Thus, it is crucial that during the voting process all the participants have equal voting privileges. CryptoNote brings this equality with its egalitarian proof of work, utilizing built-in CPU instructions, which are very hard and too expensive to implement in special purpose devices, but perfectly suitable for ordinary PCs.
+#### Adaptive limits
 
-####  Adaptive parameters
+Robinhood currency intelligently adjusts its parameters based on the historical data.
 
-CryptoNote currency intelligently adjusts its parameters based on the historical data.
+### Specifications
 
-A decentralized payment system must not depend on a single person's decisions, even if this person is a developer. CryptoNote has no hard-coded constants; magic numbers in the code are designed to be re-calculated based on the previous state of the network. Thus, they always change adaptively and independently, allowing the network to develop on its own.
-
-
+| CNS              | TITLE                               |
+|:-----------------|:------------------------------------|
+| Proof-of-work           | CryptoNight   |
+| Block time           | 30 seconds               |
+| Total supply           | 18.4m coins               |
+| CNS004           | CryptoNote Transactions             |
+| CNS005           | CryptoNote Transaction Extra Field  |
+| CNS006           | CryptoNote One-Time Keys            |
 
 ### White paper
 
-White paper covering all the aspects of CryptoNote technology
-
-### Papers
-
-Learn more about our tech
-
-| CNS              | TITLE                               | PUBLISHED      |
-|:-----------------|:------------------------------------|:---------------|
-| CNS001           | CryptoNote Signatures (obsolete)    | December 2011  |
-| CNS002           | CryptoNote Signatures               | May 2012       |
-| CNS003           | CryptoNote Blockchain               | September 2012 |
-| CNS004           | CryptoNote Transactions             | September 2012 |
-| CNS005           | CryptoNote Transaction Extra Field  | October 2012   |
-| CNS006           | CryptoNote One-Time Keys            | November 2012  |
-| CNS007           | CryptoNote Keys and Addresses       | November 2012  |
-| CNS008           | CryptoNight Hash Function           | March 2013     |
-| CNS009           | CryptoNote Technology               | August 2013    |
-| CNS010           | CryptoNote Difficulty Adjustment    | August 2014    |
-
-
+White paper covering all the aspects of Robinhood powered by CryptoNote technology
 
 ### The corrupt fear us. The honest support us. The heroic join us. We are [#Robinhood](https://jekyllrb.com/)
 
@@ -95,10 +73,6 @@ The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0per
 The Nottinghamshire Blockchain Alliance was formed to bring together people who are interested in getting involved in blockchain solutions.
 
 The Nottinghamshire Blockchain Alliance community aims to help each other advance our ambitions in blockchain spaces.
-
-### Market News
-
-<script src="https://cointelegraph.com/news-widget" data-ct-widget-limit="10" data-ct-widget-theme="light" data-ct-widget-priceindex="true" data-ct-widget-images="true" data-ct-widget-currency="USD"></script>
 
 ### Support or Contact
 
