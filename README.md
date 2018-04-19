@@ -14,15 +14,13 @@ We share the collective idea of people's electronic cash worldwide; we are the p
 
 We predict that cryptocurrencies and Blockchain technologies like it will become far more significant over the next few years than is expected by most of our similarly irrelevant pundits — and this will, no doubt, turn out to be just as much of an understatement as anything else that has been written on the subject.
 
-### What is Robinhood
+## What is Robinhood
 
 Robinhood is a fully secure and anonymous cryptocurrency. Built from the ground up to ensure anonymity, transactions cannot be linked to a single sender.
 
 Cryptocurrency is about the decentralization of the financial sector, removing people’s dependence on third party institutions.
 
 Robinhood is the natural next step in this journey, giving us all the power to make truly anonymous financial transactions.
-
-### Robinhood features
 
 #### Anonymous payments
 
