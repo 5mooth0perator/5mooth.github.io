@@ -26,7 +26,7 @@ CryptoNote is the technology that allows the creation of completely anonymous eg
 
 #### Untraceable payments
 
-CryptoNote provides users with a completely anonymous payment scheme. CryptoNote implements the ring signature technology which allows you to sign a message on behalf of a group. The signature only proves the message was created by someone from the group, but all the possible signers are indistinguishable from each other.
+Robinhood provides users with a completely anonymous payment scheme. Robinhood implements the ring signature technology which allows you to sign a message on behalf of a group. The signature only proves the message was created by someone from the group, but all the possible signers are indistinguishable from each other.
 
 #### Unlinkable transactions
 
@@ -42,11 +42,11 @@ Non-repeating one-time addresses and mixed keys in ring signatures make the whol
 
 #### Egalitarian proof of work
 
-The proof of work mechanism acts as a voting system. Thus, it is crucial that during the voting process all the participants have equal voting privileges. CryptoNote brings this equality with its egalitarian proof of work, utilizing built-in CPU instructions, which are very hard and too expensive to implement in special purpose devices, but perfectly suitable for ordinary PCs.
+The proof of work mechanism acts as a voting system. Thus, it is crucial that during the voting process all the participants have equal voting privileges. Robinhood brings this equality with its egalitarian proof of work, utilizing built-in CPU instructions, which are very hard and too expensive to implement in special purpose devices, but perfectly suitable for ordinary PCs.
 
 ####  Adaptive parameters
 
-A decentralized payment system must not depend on a single person's decisions, even if this person is a developer. CryptoNote has no hard-coded constants; magic numbers in the code are designed to be re-calculated based on the previous state of the network. Thus, they always change adaptively and independently, allowing the network to develop on its own.
+A decentralized payment system must not depend on a single person's decisions, even if this person is a developer. Robinhood has no hard-coded constants; magic numbers in the code are designed to be re-calculated based on the previous state of the network. Thus, they always change adaptively and independently, allowing the network to develop on its own.
 
 ### Powered by CryptoNote, an open-source technology and concepts for the cryptocurrencies of the future
 
