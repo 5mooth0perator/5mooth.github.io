@@ -1,28 +1,26 @@
-
-
-![Branching](assets/2000px-Robin_Hood_logo.svg.png)
-_Robinhood logo_
-
-![Branching](assets/Screenshot 2018-04-17 20.43.12.png)
+![Robinhood GUI splash screen](assets/Screenshot 2018-04-17 20.43.12.png)
 _Robinhood GUI splash screen_
 
-![Branching](assets/Screenshot 2018-04-17 21.48.04.png)
+![Robinhood GUI wallet overview](assets/Screenshot 2018-04-17 21.48.04.png)
 _Robinhood GUI wallet overview_
 
-![Branching](assets/Screenshot 2018-04-17 21.48.11.png)
+![Robinhood GUI wallet send screen](assets/Screenshot 2018-04-17 21.48.11.png)
 _Robinhood GUI wallet send screen_
 
-![Branching](assets/Screenshot 2018-04-17 20.48.55.png)
+![Robinhood GUI network status](assets/Screenshot 2018-04-17 20.48.55.png)
 _Robinhood GUI network status_
 
-![Branching](assets/Screenshot 2018-04-17 20.34.48.png)
+![Robinhood initial release on GitHub](assets/Screenshot 2018-04-17 20.34.48.png)
 _Robinhood initial release on GitHub_
 
-![Branching](assets/robinhoodicon512.png)
+![Robinhood logo](assets/2000px-Robin_Hood_logo.svg.png)
+_Robinhood logo_
+
+![Robinhood icon](assets/robinhoodicon512.png)
 _Robinhood icon_
 
-![Branching](assets/Coat_of_arms_of_Nottinghamshire_County_Council.png)
+![Coat of arms of Nottinghamshire County Council](assets/Coat_of_arms_of_Nottinghamshire_County_Council.png)
 _Coat of arms of Nottinghamshire County Council_
 
-![Branching](assets/County_Flag_of_Nottinghamshire.svg.png)
+![County Flag of Nottinghamshire](assets/County_Flag_of_Nottinghamshire.svg.png)
 _County Flag of Nottinghamshire_
