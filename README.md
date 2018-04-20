@@ -8,13 +8,11 @@ It is people's electronic cash, not connected to government or officials.
 
 > The corrupt fear us. The honest support us. [The heroic join us](https://jekyllrb.com/). We are [#Robinhood](https://jekyllrb.com/)
 
-The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator in the county of Brazópolis, Minas Gerais, Brazil and was formed to bring together people who are interested in getting involved in blockchain solutions.
+The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator in the small county of Brazópolis, Minas Gerais, Brazil and was formed to bring together citizens who are interested in getting involved in blockchain technologies made by the people, for the people.
 
 We share the collective idea of people's electronic cash worldwide; we are the people. We believe in non-violent, peaceful civil disobedience.
 
-We predict that cryptocurrencies and Blockchain technologies like it will become far more significant over the next few years than is expected by most of our similarly irrelevant pundits — and this will, no doubt, turn out to be just as much of an understatement as anything else that has been written on the subject.
-
-## What is Robinhood
+### What is Robinhood
 
 Robinhood is a fully secure and anonymous cryptocurrency. Built from the ground up to ensure anonymity, transactions cannot be linked to a single sender.
 
@@ -38,15 +36,23 @@ Robinhood hash function is designed for egalitarian GPU & CPU mining.
 
 Robinhood currency intelligently adjusts its parameters based on the historical data.
 
+### Join our community
 
+#### [Telegram](https://github.com/5mooth0perator/robinhoodwallet/wiki)
 
-### White paper
+Live assistance and other discussions about the Robinhood cryptocurrency
 
-White paper covering all the aspects of Robinhood powered by CryptoNote technology
+#### [Download](https://github.com/5mooth0perator/robinhoodwallet/wiki)
 
+Follow our easy guide and start your Robinhood journey
 
+#### [White paper](https://github.com/5mooth0perator/robinhoodwallet/wiki)
 
+White paper covering all the aspects of CryptoNote technology
 
+#### [Source Code](https://github.com/5mooth0perator/robinhoodwallet/wiki)
+
+Browse and study Robinhood source code
 
 ### Support or Contact
 

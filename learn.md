@@ -1,4 +1,4 @@
-### Shaping the future of the global economy with Robinhood
+## Shaping the future of the global economy with Robinhood
 
 The current power distribution on our planet is the legacy of the world where the economy is controlled by the few. The status quo was shaped throughout centuries, making human beings engage in rat races, detrimental rivalry, and bloodshed. In spite of humanity's hope to overcome local crises through education and internationalization, we still fail to have full control over our lives.  
 
@@ -6,23 +6,23 @@ However, state-of-the-art advancements in technology, mathematics, and cryptogra
 
 It is in our philosophy to encourage enlightenment through breakthrough innovations. Emancipation begins with laymen getting access to financial resources that will give the oppressed the hope for quality education, drinking water, and a better life. Robinhood is not about creating yet another digital currency. It is the mindset and concepts that represent the first small step to regain the power over ourselves in order to live peacefully and prosper.
 
-CryptoNote is the technology that allows the creation of completely anonymous egalitarian cryptocurrency. A number of CryptoNote community members have been focused on research and development for more than a decade. We aim to promote the derived principles to influence the contemporary economic paradigm.  
+CryptoNote is the technology that allows the creation of completely anonymous egalitarian cryptocurrencies. A number of CryptoNote community members have been focused on research and development for more than a decade. We aim to promote the derived principles to influence the contemporary economic paradigm.  
 
-## Specifications
+### Robinhood specifications
 
-| CNS                       | TITLE                               |
+| Name                      | Robinhood                               |
 |:--------------------------|:------------------------------------|
-| Ticker                    | RHD   |
-| Symbol                    | R               |
-| Proof-of-work algorithm   | CryptoNight               |
+| Ticker                    | RHD                     |
+| Symbol                    | R                       |
+| Proof-of-work algorithm   | CryptoNight             |
 | Block time                | 240 seconds             |
-| Difficulty                | retarget each block  |
-| Block reward              | slight decrease every block according to formula: `BaseReward = (MSupply - A)/218` where `MSupply` is the number of atomic units and `A` is amount of already generated coins          |
+| Difficulty                | Retarget each block     |
+| Block reward              | Slight decrease every block according to formula: `BaseReward = (MSupply - A)/218` where `MSupply` is the number of atomic units and `A` is amount of already generated coins          |
 | Divisible up to           | 1012 atomic units (up to 12 decimal places)            |
-| Emission                  | infinite, initial supply – 10,000,000,000,000,000,000 atomic units, or 10 million rhd.            |
+| Emission                  | Infinite, initial supply – 10,000,000,000,000,000,000 atomic units, or 10 million rhd.            |
 | Tail emission             | ~1.2% of initial supply per year, minimal block reward: 1 rhd.            |
 
-## Robinhood features
+### Robinhood key features
 
 #### Untraceable payments
 
@@ -48,25 +48,14 @@ The proof of work mechanism acts as a voting system. Thus, it is crucial that du
 
 A decentralized payment system must not depend on a single person's decisions, even if this person is a developer. CryptoNote has no hard-coded constants; magic numbers in the code are designed to be re-calculated based on the previous state of the network. Thus, they always change adaptively and independently, allowing the network to develop on its own.
 
-## Powered by CryptoNote, an open-source technology and concepts for the cryptocurrencies of the future
+### Powered by CryptoNote, an open-source technology and concepts for the cryptocurrencies of the future
 
 In a mass surveillance world we develop and promote new approaches to further decentralize
 and emancipate cryptocurrencies. We use advanced mathematical analysis and innovative ideas to empower end-users with true privacy, both financial and personal.
 
 We share our ideas to shift the current global paradigm through cryptography and egalitarianism.
 
-## Philosophy
-
-CryptoNote is the technology that allows the creation of completely anonymous egalitarian cryptocurrencies. A number of our community members have been focused on research and development for more than a decade. We aim to promote the derived principles to influence the contemporary economic paradigm.
-
-The current power distribution on our planet is the legacy of the world where the economy is controlled by the few. The status quo was shaped throughout centuries, making human beings engage in rat races, detrimental rivalry, and bloodshed. In spite of humanity's hope to overcome local crises through education and internationalization, we still fail to have full control over our lives.
-
-However, state-of-the-art advancements in technology, mathematics, and cryptography may become the key to subvert this paradigm. The advent of cryptocurrencies is the first sign that the new world is coming. It is marked with a hope that the economy will interlace with the technology, that communities will set new transparent principles, and impartial cryptographic algorithms will control its implementation.
-
-It is in our philosophy to encourage enlightenment through breakthrough innovations. Emancipation begins with laymen getting access to financial resources that will give the oppressed the hope for quality education, drinking water, and a better life. CryptoNote is not about creating yet another digital currency. It is the mindset and concepts that represent the first small step to regain the power over ourselves in order to live peacefully and prosper.
-
-
-### Ring signatures: Untraceable payments
+#### Ring signatures: Untraceable payments
 
 The ordinary digital signature (e.g. (EC)DSA, Schnorr, etc...) verification process involves the public key of the signer. It is a necessary condition, because the signature actually proves that the author possesses the corresponding secret key. But it is not always a sufficient condition.
 
@@ -87,8 +76,7 @@ It should be noted that foreign transactions do not restrict you from spending y
 
 [1] Ronald L. Rivest, Adi Shamir, and Yael Tauman. How to leak a secret. In ASIACRYPT, pages 552–565, 2001
 
-
-### One-time keys: Unlinkable transactions
+#### One-time keys: Unlinkable transactions
 
 Normally, when you post your public address, anyone can check all your incoming transactions even if they are hidden behind a ring signature. To avoid linking you can create hundreds of keys and send them to your payers privately, but that deprives you of the convenience of having a single public address.
 
@@ -106,8 +94,7 @@ An important part of our protocol is usage of random data by the sender. It alwa
 
 [1] Whitfield Diffie and Martin Hellman. New directions in cryptography. IEEE Transactions on Information Theory 22 (6): 644–654, 1976.
 
-
-### Double-spending proof
+#### Double-spending proof
 
 Fully anonymous signatures would allow spending the same funds many times which, of course, is incompatible with any payment system's principles. The problem can be fixed as follows.
 A ring signature is actually a class of crypto-algorithms with different features. The one CryptoNote uses is the modified version of the "Traceable ring signature" [1]. In fact we transformed traceability into linkability. This property restricts a signer's anonymity as follows: if he creates more than one ring signature using the same private key (the set of foreign public keys is irrelevant), these signatures will be linked together which indicates a double-spending attempt.
@@ -124,7 +111,7 @@ Double-spending check
 
 [1] Eiichiro Fujisaki and Koutarou Suzuki. Traceable ring signature. In Public Key Cryptography, pages 181–200, 2007.
 
-### CryptoNote blockchain analysis resistance
+#### CryptoNote blockchain analysis resistance
 
 There are many academic papers dedicated to the analysis of the Bitcoin's blockchain. Their authors trace the money flow, identify the owners of coins, determine wallet balances and so on. The ability to make such analysis is due to the fact that all the transfers between addresses are transparent: every input in a transaction refers to a unique output. Moreover, users often re-use their old addresses, receiving and sending coins from them many times, which simplifies the analyst's work. It happens unintentionally: if you have a public address (for example, for donations), you are sure to use this address in many inputs and transactions.
 
@@ -135,7 +122,7 @@ Trying to draw a graph with addresses in the vertices and transactions on the ed
 Blockchain analysis ambiguity
 Blockchain analysis ambiguity
 
-### Standard CryptoNote transaction
+#### Standard CryptoNote transaction
 
 A standard CryptoNote transaction is generated by the following sequence covered in the white paper.
 
@@ -149,7 +136,7 @@ Finally, Bob signs the transaction, using his One-time private key (12), all the
 Standard CryptoNote transaction
 A standard CryptoNote transaction (click to enlarge)
 
-### Adaptive limits
+#### Adaptive limits
 
 A decentralized payment system must not depend on a single person's decisions, even if this person is a core developer. Hard constants and magic numbers in the code deter the system's evolution and therefore should be eliminated (or at least be cut down to the minimum). Every crucial limit (like max block size or min fee amount) should be re-calculated based on the system's previous state. Therefore, it always changes adaptively and independently, allowing the network to develop on it's own.
 
@@ -158,7 +145,7 @@ CryptoNote has the following parameters which adjust automatically for each new 
 
 2) Max block size. Let MN be the median value of the last N blocks sizes. Then the "hard-limit" for the size of accepting blocks is 2*MN. It averts blockchain bloating but still allows the limit to slowly grow with the time if necessary. Transaction size does not need to be limited explicitly. It is bounded by the size of the block.
 
-### Smooth emission
+#### Smooth emission
 
 The upper bound for the overall amount of all digital coins is also digital:
 
@@ -170,7 +157,7 @@ BaseReward = (MSupply − A) >> 18
 
 where A is amount of previously generated coins. It gives a predictable growth of the money supply without any breakpoints.
 
-### Egalitarian proof of work
+#### Egalitarian proof of work
 
 The proof of work mechanism is actually a voting system. Users vote for the right order of the transactions, for enabling new features in the protocol and for the honest money supply distribution. Therefore, it is important that during the voting process all participant have equal voting rights. CryptoNote brings the equality with an egalitarian proof-of-work pricing function, which is perfectly suitable for ordinary PCs. It utilizes built-in CPU instructions, which are very hard and too expensive to implement in special purpose devices or fast memory-on-chip devices with low latency.
 
@@ -184,9 +171,7 @@ Our algorithm requires about 2 Mb per instance for the following reasons:
 
 One of the proof-of-work algorithms that is in line with our propositions is CryptoNight, created by Bytecoin developers in a cooperation with our team. It is designed to make CPU and GPU mining roughly equally efficient and restrict ASIC mining.
 
-
-
-### CryptoNote Standards
+#### CryptoNote Standards
 
 CryptoNote Standards are the specification of the CryptoNote protocol as a peer-to-peer anonymous payment system. It describes technical details of CryptoNote whitepaper implementation.
 
@@ -202,10 +187,6 @@ CryptoNote Standards are the specification of the CryptoNote protocol as a peer-
 | CNS008           | [CryptoNight Hash Function](qwqw)           | March 2013     |
 | CNS009           | [CryptoNote Technology](qwqw)               | August 2013    |
 | CNS010           | [CryptoNote Difficulty Adjustment](qwqw)    | August 2014    |
-
-### Blockchain News
-
-<script src="https://cointelegraph.com/news-widget" data-ct-widget-limit="10" data-ct-widget-theme="light" data-ct-widget-priceindex="true" data-ct-widget-images="true" data-ct-widget-currency="USD"></script>
 
 ### Support or Contact
 
