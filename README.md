@@ -44,41 +44,16 @@ Too many projects are bringing in **too much funding** despite most having **no 
 
 We have a strong belief in our no-funding strategy; if we make a cool product, **the value will create itself**. If you think we're wrong, we're happy to [talk](https://jekyllrb.com/) about it.
 
-
 ### The Nottinghamshire Blockchain Alliance
 
-> The corrupt fear us. The honest support us. [The heroic join us](https://jekyllrb.com/). We are [#Robinhood](https://jekyllrb.com/)
+> We share the collective idea of people's electronic cash worldwide; we are the people.
 
 The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator in the small county of Brazópolis, Minas Gerais, Brazil and was formed to bring together citizens who are interested in getting involved in blockchain technologies made by the people, for the people.
-
-We share the collective idea of people's electronic cash worldwide; we are the people. We believe in non-violent, peaceful civil disobedience.
 
 ### Still Interested?
 
 We need help! Join Us! No, seriously! Whatever your skill is, or what ideas you have, we are ready to hear about it!
 
-#### [Join us on Telegram](https://github.com/5mooth0perator/robinhoodwallet/wiki)
+#### [Join us on Telegram](https://t.me/joinchat/DqnU2RIxEDlVlxLdLFrn7g)
 
-#### [Join us on GitHub](https://github.com/5mooth0perator/robinhoodwallet/wiki)
-
-### Join our community
-
-#### [Telegram](https://github.com/5mooth0perator/robinhoodwallet/wiki)
-
-Live assistance and other discussions about the Robinhood cryptocurrency
-
-#### [Download](https://github.com/5mooth0perator/robinhoodwallet/wiki)
-
-Follow our easy guide and start your Robinhood journey
-
-#### [White paper](https://github.com/5mooth0perator/robinhoodwallet/wiki)
-
-White paper covering all the aspects of CryptoNote technology
-
-#### [Source Code](https://github.com/5mooth0perator/robinhoodwallet/wiki)
-
-Browse and study Robinhood source code
-
-### Support or Contact
-
-Having trouble with Robinhood? Check out our [documentation](https://github.com/5mooth0perator/robinhoodwallet/wiki), [contact support](https://github.com/5mooth0perator/robinhoodwallet/issues) or [join telegram community](https://t.me/joinchat/DqnU2RIxEDlVlxLdLFrn7g) and we’ll help you sort it out.
+#### [Join us on GitHub](https://github.com/robinhoodcash)

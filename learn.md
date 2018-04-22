@@ -200,6 +200,10 @@ CryptoNote Standards are the specification of the CryptoNote protocol as a peer-
 | CNS009           | [CryptoNote Technology](assets/cns009.txt)               | August 2013    |
 | CNS010           | [CryptoNote Difficulty Adjustment](assets/cns010.txt)    | August 2014    |
 
-### Support or Contact
+### Still Interested?
 
-Having trouble with Robinhood? Check out our [documentation](https://github.com/5mooth0perator/robinhoodwallet/wiki), [contact support](https://github.com/5mooth0perator/robinhoodwallet/issues) or [join telegram community](https://t.me/joinchat/DqnU2RIxEDlVlxLdLFrn7g) and we’ll help you sort it out.
+We need help! Join Us! No, seriously! Whatever your skill is, or what ideas you have, we are ready to hear about it!
+
+#### [Join us on Telegram](https://t.me/joinchat/DqnU2RIxEDlVlxLdLFrn7g)
+
+#### [Join us on GitHub](https://github.com/robinhoodcash)
