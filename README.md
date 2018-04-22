@@ -50,6 +50,14 @@ We have a strong belief in our no-funding strategy; if we make a cool product, *
 
 The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator in the small county of Brazópolis, Minas Gerais, Brazil and was formed to bring together citizens who are interested in getting involved in blockchain technologies made by the people, for the people.
 
+### Fun Robinhood Facts
+
+> Robinhood has a 2 minutes block time, which means transactions confirm faster.
+
+> Robinhood has a private blockchain, nobody sees your money except you.
+
+> You can restore a deleted Robinhood wallet with your view key and spend key.
+
 ### Still Interested?
 
 We need help! Join Us! No, seriously! Whatever your skill is, or what ideas you have, we are ready to hear about it!

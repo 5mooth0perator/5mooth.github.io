@@ -37,7 +37,7 @@
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <h1><a href="/" style="color:#ece4d8;">{{ site.title | default: site.github.repository_name }}</a></h1>
             <h2>{{ site.description | default: site.github.project_tagline }}</h2>
           </span>
           <span class="left-tail"></span>
@@ -48,7 +48,7 @@
       {% if site.show_downloads %}
         <section id="downloads">
           <span class="inner">
-            <a href="/" class="zip"><em>download</em> Download</a><a href="/learn" class="tgz"><em>download</em> Learn</a>
+            <a href="/download" class="zip"><em>start here</em> Download</a><a href="/learn" class="tgz"><em>know more!</em> Learn</a>
           </span>
         </section>
       {% else %}
@@ -73,13 +73,18 @@
               <p>this project by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
             {% endif %}
             {% if site.github.is_user_page %}
-              <p><a href="/">Home</a> - <a href="/download">Download</a> - <a href="/learn">Learn</a> - <a href="/donate">Donate</a> - <a href="/kb">Knowledge base</a> - <a href="/media">Media</a> - <a href="/markdown">MD</a></p>
+              <p><a href="/">Home</a> - <a href="/download">Download</a> - <a href="/learn">Learn</a> - <a href="/donate">Donate</a> - <a href="/kb">Knowledge base</a> - <a href="/media">Media</a></p>
             {% endif %}
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
         </span>
         <p>Brought to you by <a href="{{ site.github.owner_url }}">The Nottinghamshire Blockchain Alliance</a>.<br>© 2018 under the terms of the <a href="https://github.com/5mooth0perator/">MIT License</a>.</p>
+        <div id="google_translate_element"></div><script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,en,es,fr,nl,pt', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+        }
+        </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         <span class="octocat"></span>
       </footer>
 
@@ -95,12 +100,6 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
-
-    <div id="google_translate_element"></div><script type="text/javascript">
-    function googleTranslateElementInit() {
-      new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,en,es,fr,nl,pt', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-    }
-    </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
   </body>
 </html>
