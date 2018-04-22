@@ -4,6 +4,12 @@ Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anon
 
 It is people's electronic cash, not connected to government or officials.
 
+Robinhood is a fully secure and anonymous cryptocurrency. Built from the ground up to ensure anonymity, transactions cannot be linked to a single sender.
+
+Cryptocurrency is about the decentralization of the financial sector, removing people’s dependence on third party institutions.
+
+Robinhood is the natural next step in this journey, giving us all the power to make truly anonymous financial transactions.
+
 **We have builds for Windows, Apple, and Ubuntu Linux**. If you prefer **source code**, you can find that [here](https://jekyllrb.com/), but you should also contact us [here](https://jekyllrb.com/) because we're looking for people like you to join us.
 
 ### Why Robinhood?
@@ -38,31 +44,6 @@ Too many projects are bringing in **too much funding** despite most having **no 
 
 We have a strong belief in our no-funding strategy; if we make a cool product, **the value will create itself**. If you think we're wrong, we're happy to [talk](https://jekyllrb.com/) about it.
 
-### What is Robinhood
-
-Robinhood is a fully secure and anonymous cryptocurrency. Built from the ground up to ensure anonymity, transactions cannot be linked to a single sender.
-
-Cryptocurrency is about the decentralization of the financial sector, removing people’s dependence on third party institutions.
-
-Robinhood is the natural next step in this journey, giving us all the power to make truly anonymous financial transactions.
-
-#### Anonymous payments
-
-Robinhood uses ring signatures and one-time addresses for truly anonymous payments.
-
-#### Unlinkable transactions
-
-Robinhood's transactions can't be linked between the sender and the recipient.
-
-#### Egalitarian proof of work
-
-Robinhood hash function is designed for egalitarian GPU & CPU mining.
-
-#### Adaptive limits
-
-Robinhood currency intelligently adjusts its parameters based on the historical data.
-
-
 
 ### The Nottinghamshire Blockchain Alliance
 
@@ -71,6 +52,14 @@ Robinhood currency intelligently adjusts its parameters based on the historical 
 The Nottinghamshire Blockchain Alliance is a community was founded by 5mooth0perator in the small county of Brazópolis, Minas Gerais, Brazil and was formed to bring together citizens who are interested in getting involved in blockchain technologies made by the people, for the people.
 
 We share the collective idea of people's electronic cash worldwide; we are the people. We believe in non-violent, peaceful civil disobedience.
+
+### Still Interested?
+
+We need help! Join Us! No, seriously! Whatever your skill is, or what ideas you have, we are ready to hear about it!
+
+#### [Join us on Telegram](https://github.com/5mooth0perator/robinhoodwallet/wiki)
+
+#### [Join us on GitHub](https://github.com/5mooth0perator/robinhoodwallet/wiki)
 
 ### Join our community
 

@@ -26,13 +26,13 @@ CryptoNote is the technology that allows the creation of completely anonymous eg
 
 #### Untraceable payments
 
-| For humans                      | For geeks                               |
-|:--------------------------|:------------------------------------|
-| Robinhood uses ring signatures and one-time addresses for truly anonymous payments.                    | Robinhood provides users with a completely anonymous payment scheme. Robinhood implements the ring signature technology which allows you to sign a message on behalf of a group. The signature only proves the message was created by someone from the group, but all the possible signers are indistinguishable from each other.                     |
+> Robinhood uses ring signatures and one-time addresses for truly anonymous payments.
 
 Robinhood provides users with a completely anonymous payment scheme. Robinhood implements the ring signature technology which allows you to sign a message on behalf of a group. The signature only proves the message was created by someone from the group, but all the possible signers are indistinguishable from each other.
 
 #### Unlinkable transactions
+
+> Robinhood's transactions can't be linked between the sender and the recipient.
 
 Even if outgoing transactions are untraceable, everyone may still be able to see the payments you have received and thus determine your income. However, by using a variation of the Diffie-Hellman exchange protocol, a receiver has multiple unique one-time addresses derived from his single public key. After funds are sent to these addresses they can only be redeemed by the receiver; and it would be impossible to cross-link these payments.
 
@@ -46,9 +46,13 @@ Non-repeating one-time addresses and mixed keys in ring signatures make the whol
 
 #### Egalitarian proof of work
 
+> Robinhood hash function is designed for egalitarian GPU & CPU mining.
+
 The proof of work mechanism acts as a voting system. Thus, it is crucial that during the voting process all the participants have equal voting privileges. Robinhood brings this equality with its egalitarian proof of work, utilizing built-in CPU instructions, which are very hard and too expensive to implement in special purpose devices, but perfectly suitable for ordinary PCs.
 
 ####  Adaptive parameters
+
+> Robinhood currency intelligently adjusts its parameters based on the historical data.
 
 A decentralized payment system must not depend on a single person's decisions, even if this person is a developer. Robinhood has no hard-coded constants; magic numbers in the code are designed to be re-calculated based on the previous state of the network. Thus, they always change adaptively and independently, allowing the network to develop on its own.
 
