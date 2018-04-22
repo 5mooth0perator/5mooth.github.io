@@ -10,7 +10,7 @@ Cryptocurrency is about the decentralization of the financial sector, removing p
 
 Robinhood is the natural next step in this journey, giving us all the power to make truly anonymous financial transactions.
 
-**We have builds for Windows, Apple, and Ubuntu Linux**. If you prefer **source code**, you can find that [here](https://jekyllrb.com/), but you should also contact us [here](https://jekyllrb.com/) because we're looking for people like you to join us.
+**We have builds for Windows, Apple, and Ubuntu Linux**. If you prefer **source code**, you can find that [here](https://github.com/5mooth0perator, but you should also contact us [here](https://t.me/joinchat/DqnU2RIxEDlVlxLdLFrn7g) because we're looking for people like you to join us.
 
 ### Why Robinhood?
 
@@ -24,7 +24,7 @@ Robinhood has the same privacy features you'll find in Monero and Aeon. Every tr
 
 #### 3. Easy To Use
 
-We support almost every OS, even on mobile you can [make a secured paper-wallet for free](https://jekyllrb.com/), and get started with Robinhood in under 5 minutes.
+We support almost every OS, even on mobile you can [make a secured paper-wallet for free](http://getrobinhood.tk/paper-wallet-generator/index.html), and get started with Robinhood in under 5 minutes.
 
 #### 4. Easy To Mine
 
@@ -42,7 +42,7 @@ We are growing a community of developers and testers in our GitHub meta-forum. Y
 
 Too many projects are bringing in **too much funding** despite most having **no damn product**. We figured, _"why not do the whole thing in reverse? Start with a fun project, make it as simple and accessible as possible, and let it grow on its own."_
 
-We have a strong belief in our no-funding strategy; if we make a cool product, **the value will create itself**. If you think we're wrong, we're happy to [talk](https://jekyllrb.com/) about it.
+We have a strong belief in our no-funding strategy; if we make a cool product, **the value will create itself**. If you think we're wrong, we're happy to [talk](https://t.me/joinchat/DqnU2RIxEDlVlxLdLFrn7g) about it.
 
 ### The Nottinghamshire Blockchain Alliance
 

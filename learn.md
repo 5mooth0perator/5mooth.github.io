@@ -183,6 +183,10 @@ Our algorithm requires about 2 Mb per instance for the following reasons:
 
 One of the proof-of-work algorithms that is in line with our propositions is [CryptoNight](https://en.bitcoin.it/wiki/CryptoNight), created by Bytecoin developers in a cooperation with our team. It is designed to make CPU and GPU mining roughly equally efficient and restrict ASIC mining.
 
+#### White paper
+
+[White paper](assets/whitepaper.pdf) covering all the aspects of CryptoNote technology
+
 #### CryptoNote Standards
 
 CryptoNote Standards are the specification of the CryptoNote protocol as a peer-to-peer anonymous payment system. It describes technical details of CryptoNote whitepaper implementation.
