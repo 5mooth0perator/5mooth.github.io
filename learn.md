@@ -26,6 +26,10 @@ CryptoNote is the technology that allows the creation of completely anonymous eg
 
 #### Untraceable payments
 
+| For humans                      | For geeks                               |
+|:--------------------------|:------------------------------------|
+| Robinhood uses ring signatures and one-time addresses for truly anonymous payments.                    | Robinhood provides users with a completely anonymous payment scheme. Robinhood implements the ring signature technology which allows you to sign a message on behalf of a group. The signature only proves the message was created by someone from the group, but all the possible signers are indistinguishable from each other.                     |
+
 Robinhood provides users with a completely anonymous payment scheme. Robinhood implements the ring signature technology which allows you to sign a message on behalf of a group. The signature only proves the message was created by someone from the group, but all the possible signers are indistinguishable from each other.
 
 #### Unlinkable transactions

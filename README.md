@@ -4,6 +4,40 @@ Robinhood is cryptocurrency of Brazilian origin, just like Bitcoin but more anon
 
 It is people's electronic cash, not connected to government or officials.
 
+**We have builds for Windows, Apple, and Ubuntu Linux**. If you prefer **source code**, you can find that [here](https://jekyllrb.com/), but you should also contact us [here](https://jekyllrb.com/) because we're looking for people like you to join us.
+
+### Why Robinhood?
+
+#### 1. Fast Transactions
+
+Robinhood is creating blocks every 2 minutes, as opposed to every 10 minutes. Your money travels 5x faster on Robinhood than on Bitcoin.
+
+#### 2. Privacy
+
+Robinhood has the same privacy features you'll find in Monero and Aeon. Every transaction is private unless you choose to make it public.
+
+#### 3. Easy To Use
+
+We support almost every OS, even on mobile you can [make a secured paper-wallet for free](https://jekyllrb.com/), and get started with Robinhood in under 5 minutes.
+
+#### 4. Easy To Mine
+
+Robinhood comes with its own basic CPU miner, but you can also use any Monero mining software you're used to if you'd rather use GPU's or mining pools. We recommend XMR-Stak Unified Miner.
+
+#### 5. Community
+
+The Robinhood community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our Telegram Chat.
+
+#### 6. Support
+
+We are growing a community of developers and testers in our GitHub meta-forum. You can help by testing software and submitting bug reports, or even just cheering us on from the sidelines.
+
+### The story
+
+Too many projects are bringing in **too much funding** despite most having **no damn product**. We figured, _"why not do the whole thing in reverse? Start with a fun project, make it as simple and accessible as possible, and let it grow on its own."_
+
+We have a strong belief in our no-funding strategy; if we make a cool product, **the value will create itself**. If you think we're wrong, we're happy to [talk](https://jekyllrb.com/) about it.
+
 ### What is Robinhood
 
 Robinhood is a fully secure and anonymous cryptocurrency. Built from the ground up to ensure anonymity, transactions cannot be linked to a single sender.
@@ -27,6 +61,8 @@ Robinhood hash function is designed for egalitarian GPU & CPU mining.
 #### Adaptive limits
 
 Robinhood currency intelligently adjusts its parameters based on the historical data.
+
+
 
 ### The Nottinghamshire Blockchain Alliance
 
