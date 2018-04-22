@@ -10,7 +10,7 @@ Cryptocurrency is about the decentralization of the financial sector, removing p
 
 Robinhood is the natural next step in this journey, giving us all the power to make truly anonymous financial transactions.
 
-**We have builds for Windows, Apple, and Ubuntu Linux**. If you prefer **source code**, you can find that [here](https://github.com/5mooth0perator, but you should also contact us [here](https://t.me/joinchat/DqnU2RIxEDlVlxLdLFrn7g) because we're looking for people like you to join us.
+**We have builds for Windows, Apple, and Ubuntu Linux**. If you prefer **source code**, you can find that [here](https://github.com/5mooth0perator), but you should also contact us [here](https://t.me/joinchat/DqnU2RIxEDlVlxLdLFrn7g) because we're looking for people like you to join us.
 
 ### Why Robinhood?
 
@@ -32,11 +32,7 @@ Robinhood comes with its own basic CPU miner, but you can also use any Monero mi
 
 #### 5. Community
 
-The Robinhood community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our Telegram Chat.
-
-#### 6. Support
-
-We are growing a community of developers and testers in our GitHub meta-forum. You can help by testing software and submitting bug reports, or even just cheering us on from the sidelines.
+The Robinhood community is very welcoming to all users and developers. You won't get shouted at when things break, and we welcome critiques of our work. Please join us in our [Telegram Chat](https://t.me/joinchat/DqnU2RIxEDlVlxLdLFrn7g).
 
 ### The story
 

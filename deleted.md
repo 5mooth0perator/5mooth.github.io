@@ -19,3 +19,11 @@ Browse and study Robinhood source code
 ### Support or Contact
 
 Having trouble with Robinhood? Check out our [documentation](https://github.com/5mooth0perator/robinhoodwallet/wiki), [contact support](https://github.com/5mooth0perator/robinhoodwallet/issues) or [join telegram community](https://t.me/joinchat/DqnU2RIxEDlVlxLdLFrn7g) and we’ll help you sort it out.
+
+
+
+
+
+#### 6. Support
+
+We are growing a community of developers and testers in our GitHub meta-forum. You can help by testing software and submitting bug reports, or even just cheering us on from the sidelines.
